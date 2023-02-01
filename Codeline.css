@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: lightgray;
+    text-align: center;
+    padding: 1em;
+  }
+  
+  nav {
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav a {
+    display: block;
+    padding: 1em;
+    color: white;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 1em;
+  }
+  
+  section {
+    background-color: lightgray;
+    padding: 1em;
+    margin-bottom: 1em;
+  }
+  
+  footer {
+    background-color: lightblue;
+    text-align: center;
+    padding: 1em;
+    color: white;
+  }
+  
